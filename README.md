@@ -1,1 +1,0 @@
-# clockwise-rotation-of-an-array
